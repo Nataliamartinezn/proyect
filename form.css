@@ -32,7 +32,7 @@ form{
     width: 60%;
     background-color: rgb(255, 255, 255);
     display: flex;
-    padding: 10px 30px;  
+    padding: 10px 50px;  
     align-items: center;
     justify-content: center; 
     font-family: 'Roboto';
@@ -57,11 +57,11 @@ form input{
 }
 .grupo1{
     width: 98%;
+    margin:5px;
 
 }
 .form2{
     width: 100%;
-
 }
 
 textarea{
