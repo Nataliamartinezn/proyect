@@ -25,12 +25,13 @@
     width: 100%;
     display: flex;
     justify-content: center;
-
+    align-items: center;
+    
 }
 
 form{
     width: 60%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.63);
     display: flex;
     padding: 10px 50px;  
     align-items: center;
@@ -43,6 +44,7 @@ form input{
     padding: 10px;
     border-color: solid #cccccc;
     opacity: .6;
+    color: black;
 }
 
 .form1{
